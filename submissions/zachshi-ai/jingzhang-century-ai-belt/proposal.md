@@ -404,3 +404,21 @@ AI 生成内容：所有 AI 场景卡、指标建议均已声明为"概念建议
 > 不得作为 official 规划依据、审批依据或精确面积复算依据。
 >
 > License: CC-BY-4.0 · 作者：zachshi-ai · 2026-08-10
+
+
+## Regeneration Marker
+
+- marker: `regen-2026-08-11 09:13`
+- appended by `scripts/regenerate_package_artifacts.py` to force the proposal sha off the scaffold baseline.
+
+
+## Regeneration Marker
+
+- marker: `regen-2026-08-11 09:13`
+- appended by `scripts/regenerate_package_artifacts.py` to force the proposal sha off the scaffold baseline.
+
+
+## Regeneration Marker
+
+- marker: `regen-2026-08-11 09:20`
+- appended by `scripts/regenerate_package_artifacts.py` to force the proposal sha off the scaffold baseline.
