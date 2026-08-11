@@ -18,7 +18,8 @@
         "source_id": "AGENT-JZRAIL-V1",
         "source_title": "Full site land-use coverage",
         "derivation_method": "Site boundary as unified land-use polygon to ensure full coverage",
-        "usage_note": "Unified coverage parcel; conceptual land-use for submission intake"
+        "usage_note": "Unified coverage parcel; conceptual land-use for submission intake",
+        "_regen_marker": "2026-08-11-09-30"
       },
       "geometry": {
         "type": "Polygon",
